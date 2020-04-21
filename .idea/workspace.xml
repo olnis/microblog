@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="123cc84d-4e9b-4043-96ac-c90063c93e1b" name="Default Changelist" comment="" />
+    <list default="true" id="123cc84d-4e9b-4043-96ac-c90063c93e1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/microblog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/microblog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1adchRfoAfqKsHSY9eNahxW9qvt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,12 +36,57 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/blog/templates/blog" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="microblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check_modules" type="PythonConfigurationType" factoryName="Python">
+      <module name="microblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blog/forms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -58,19 +113,80 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="2248" y="376" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1587146197983">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2248" y="376" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587146197983" />
-    <state x="2020" y="167" width="1203" height="722" key="SettingsEditor" timestamp="1587147540400">
+    <state x="1996" y="200" width="1071" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587488548927">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state x="2020" y="167" width="1203" height="722" key="SettingsEditor/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587147540400" />
-    <state x="459" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1587236367183">
-      <screen x="0" y="23" width="1680" height="972" />
+    <state x="1996" y="200" width="1071" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587488548927" />
+    <state x="2345" y="261" key="#com.intellij.ide.util.MemberChooser" timestamp="1587484089364">
+      <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state x="2204" y="360" key="com.intellij.ide.util.TipDialog/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587150802529" />
+    <state x="2345" y="261" key="#com.intellij.ide.util.MemberChooser/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587484089364" />
+    <state x="2220" y="281" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587484246907">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2220" y="281" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587484246907" />
+    <state x="1836" y="156" width="1392" height="764" key="DiffContextDialog" timestamp="1587485470058">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1836" y="156" width="1392" height="764" key="DiffContextDialog/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587485470058" />
+    <state width="1571" height="259" key="GridCell.Tab.0.bottom" timestamp="1587488805765">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1571" height="259" key="GridCell.Tab.0.bottom/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587488805765" />
+    <state width="1571" height="259" key="GridCell.Tab.0.center" timestamp="1587488805764">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1571" height="259" key="GridCell.Tab.0.center/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587488805764" />
+    <state width="1571" height="259" key="GridCell.Tab.0.left" timestamp="1587488805764">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1571" height="259" key="GridCell.Tab.0.left/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587488805764" />
+    <state width="1571" height="259" key="GridCell.Tab.0.right" timestamp="1587488805765">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1571" height="259" key="GridCell.Tab.0.right/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587488805765" />
+    <state x="2413" y="267" key="RollbackChangesDialog" timestamp="1587484170039">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2413" y="267" key="RollbackChangesDialog/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587484170039" />
+    <state x="2020" y="167" width="1203" height="722" key="SettingsEditor" timestamp="1587484043302">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2020" y="167" width="1203" height="722" key="SettingsEditor/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587484043302" />
+    <state x="2204" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1587484534040">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="459" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.972/1680.23.1920.1057@0.23.1680.972" timestamp="1587477036285" />
+    <state x="2204" y="360" key="com.intellij.ide.util.TipDialog/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587484534040" />
     <state x="459" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.972@0.23.1680.972" timestamp="1587236367183" />
   </component>
 </project>
