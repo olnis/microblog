@@ -12,12 +12,9 @@ ALLOWED_HOSTS = ['*']
 
 DATABASES = {
     'default': {
-<<<<<<< HEAD
-=======
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'microblog',
         'USER': 'microblog',
         'PASSWORD': 'microblog',
->>>>>>> 8474b00060f05ed2dc47be83e7ea7a7468e2076b
     }
 }
