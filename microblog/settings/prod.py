@@ -6,6 +6,9 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
+INSTALLED_APPS += (
+	'gunicorn',
+)
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
