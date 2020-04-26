@@ -1,6 +1,6 @@
 from .common import *
 
-# import dj_database_url
+import dj_database_url
 import django_heroku
 
 
@@ -16,6 +16,6 @@ ALLOWED_HOSTS = ['*']
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-# DATABASES['default'] = dj_database_url.config()
+DATABASES['default'] = dj_database_url.config()
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
