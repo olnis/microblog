@@ -4,4 +4,4 @@ pytz==2019.3
 psycopg2
 gunicorn
 dj-database-url
-shitenoise==3.3.1
+whitenoise==3.3.1
