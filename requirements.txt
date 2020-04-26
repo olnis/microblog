@@ -1,3 +1,7 @@
-django
+Django==2.2.9
+pytz==2019.3
+
+psycopg2
 gunicorn
-django-heroku
+dj-database-url
+shitenoise==3.3.1
