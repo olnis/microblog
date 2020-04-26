@@ -1,6 +1,5 @@
 django==2.2.9
 gunicorn
-django-heroku
 pytz==2019.3
 
 psycopg2
