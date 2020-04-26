@@ -6,4 +6,4 @@ pytz==2019.3
 psycopg2
 
 dj-database-url
-whitenoise
+whitenoise==3.3.1
