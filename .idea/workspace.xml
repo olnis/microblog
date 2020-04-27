@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="123cc84d-4e9b-4043-96ac-c90063c93e1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="123cc84d-4e9b-4043-96ac-c90063c93e1b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,6 +152,10 @@
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="1836" y="156" width="1392" height="764" key="DiffContextDialog/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587485470058" />
+    <state x="2230" y="276" key="FileChooserDialogImpl" timestamp="1587926151567">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2230" y="276" key="FileChooserDialogImpl/0.23.1440.822/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587926151567" />
     <state width="1571" height="259" key="GridCell.Tab.0.bottom" timestamp="1587623707935">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
@@ -182,9 +184,10 @@
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2020" y="167" width="1203" height="722" key="SettingsEditor/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587484043302" />
-    <state x="2204" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1587484534040">
-      <screen x="1680" y="23" width="1920" height="1057" />
+    <state x="393" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1587925960707">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
+    <state x="393" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.822/1440.23.1920.1057@0.23.1440.822" timestamp="1587925960707" />
     <state x="459" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.972/1680.23.1920.1057@0.23.1680.972" timestamp="1587477036285" />
     <state x="2204" y="360" key="com.intellij.ide.util.TipDialog/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587484534040" />
     <state x="459" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.972@0.23.1680.972" timestamp="1587236367183" />
