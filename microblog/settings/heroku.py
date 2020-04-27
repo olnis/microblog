@@ -1,10 +1,6 @@
 from .common import *
 
 import dj_database_url
-import django_heroku
-
-
-django_heroku.settings(locals())
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
